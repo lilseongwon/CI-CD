@@ -1,0 +1,4 @@
+spring:
+  redis:
+    host: {REDIS-HOST}
+    port: {REDIS-PORT}
