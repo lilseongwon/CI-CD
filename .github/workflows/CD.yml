@@ -33,7 +33,7 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
 
       - name: Docker Build
-        run: docker build -t seongwon1234/ddd .
+        run: docker build -t seongwon1234/hello .
 
       - name: Push on Dockerhub
-        run: docker push seongwon1234/ddd
+        run: docker push seongwon1234/hello

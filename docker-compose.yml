@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   spring:
-    image: seongwon1234/ddd
+    image: seongwon1234/hello
     build: .
     ports:
       - 8080:8080

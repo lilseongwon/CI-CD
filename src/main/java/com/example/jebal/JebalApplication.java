@@ -9,5 +9,4 @@ public class JebalApplication {
     public static void main(String[] args) {
         SpringApplication.run(JebalApplication.class, args);
     }
-
 }

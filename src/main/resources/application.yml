@@ -1,4 +1,4 @@
 spring:
   redis:
-    host: {REDIS-HOST}
-    port: {REDIS-PORT}
+    host: {REDIS_HOST}
+    port: {REDIS_PORT}
